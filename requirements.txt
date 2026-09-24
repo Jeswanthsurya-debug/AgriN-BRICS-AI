@@ -2,6 +2,6 @@ streamlit
 google-genai
 requests
 pillow
+pandas
 gTTS
 deep-translator
-pandas
