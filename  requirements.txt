@@ -1,0 +1,7 @@
+streamlit
+google-genai
+requests
+pillow
+gTTS
+deep-translator
+pandas
